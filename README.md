@@ -1,0 +1,1 @@
+A Dash application that processes a daily TXT file provided by the B3 stock market (available at: B3 Historical Data). The application filters derivatives by asset (e.g., PETR, VALE, RRRP, AMBP, etc.) and by minimum traded volume (e.g., 50,000 for R$50,000 traded). The output is a table listing all derivatives that meet the specified filtering conditions
